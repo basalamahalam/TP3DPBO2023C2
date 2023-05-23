@@ -1,4 +1,4 @@
-# TUGASPRAKTIKUMDPBO2023
+# TUGASPRAKTIKUM3DPBO2023
 ### Saya Muhammad Alam Basalamah NIM 2101677 mengerjakan TP3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
