@@ -2,7 +2,14 @@
 ### Saya Muhammad Alam Basalamah NIM 2101677 mengerjakan TP3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
-Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai berikut: ● Program bebas, kecuali program Ormawa ● Menggunakan minimal 3 buah tabel ● Terdapat proses Create, Read, Update, dan Delete data ● Memiliki fungsi pencarian dan pengurutan data (kata kunci bebas) ● Menggunakan template/skin form tambah data dan ubah data yang sama ● 1 tabel pada database ditampilkan dalam bentuk bukan tabel, 2 tabel sisanya ditampilkan dalam bentuk tabel (seperti contoh saat praktikum) ● Menggunakan template/skin tabel yang sama untuk menampilkan tabel
+Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai berikut:
+1. Program bebas, kecuali program Ormawa
+2. Menggunakan minimal 3 buah tabel
+3. Terdapat proses Create, Read, Update, dan Delete data
+4. Memiliki fungsi pencarian dan pengurutan data (kata kunci bebas)
+5. Menggunakan template/skin form tambah data dan ubah data yang sama
+6. 1 tabel pada database ditampilkan dalam bentuk bukan tabel, 2 tabel sisanya ditampilkan dalam bentuk tabel (seperti contoh saat praktikum)
+7. Menggunakan template/skin tabel yang sama untuk menampilkan tabel
 
 ## Desain Database
 ![image.png](https://github.com/basalamahalam/TP3DPBO2023C2/blob/main/Design.PNG)
