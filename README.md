@@ -37,4 +37,5 @@ Halaman Jabatan:
 4. Dan terakhir apabila ingin menghapus salah satu jabatan maka bisa klik icon delete pada bagian aksi
 
 ## Video Preview
-Terlalu besar jadi tidak bisa ditampilkan
+https://github.com/basalamahalam/TP3DPBO2023C2/assets/101177095/a816a240-4128-4fa4-ba51-dc676574d63e
+
