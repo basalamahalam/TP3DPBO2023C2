@@ -35,3 +35,6 @@ Halaman Jabatan:
 2. Apabila ingin menambahkan data jabatan maka isi form tambah jabatan disebelah kanan lalu klik button tambah
 3. Apabila ingin mengedit salah satu jabatan maka bisa klik icon edit pada bagian aksi lalu isikan nama jabatan penggantinya dan klik submit
 4. Dan terakhir apabila ingin menghapus salah satu jabatan maka bisa klik icon delete pada bagian aksi
+
+## Video Preview
+Terlalu besar jadi tidak bisa ditampilkan
